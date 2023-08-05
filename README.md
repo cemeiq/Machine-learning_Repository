@@ -1,8 +1,6 @@
 # Machine Learning Beginner to Advance
 
-<img src="[https://i.ibb.co/g7bPCMD/Python-Pandas-10-Tricks-Features-You-May-Not-Know-Watermark.webp](https://files.realpython.com/media/k-Nearest-Neighbors-in-Python-Guide_Watermarked.a2475a6087a3.jpg)" alt="Python-Pandas-10-Tricks-Features-You-May-Not-Know-Watermark" border="0"></a>
-
-Welcome to the Numpy-Pandas Beginner to Advance repository! 🎉 This repository contains a comprehensive Jupyter Notebook named `Numpy_Pandas.ipynb`, which will serve as your guide to mastering Numpy and Pandas libraries for data manipulation and analysis. 🚀
+Welcome to the Machine Learning Beginner to Advance repository! 🎉 This repository contains a comprehensive Jupyter Notebook named `Numpy_Pandas.ipynb`, which will serve as your guide to mastering Machine Learning libraries for data manipulation and analysis. 🚀
 
 ## Notebook Overview 📔
 
