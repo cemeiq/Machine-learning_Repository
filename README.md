@@ -1,6 +1,6 @@
-# Numpy-Pandas Beginner to Advance
+# Machine Learning Beginner to Advance
 
-<img src="https://i.ibb.co/g7bPCMD/Python-Pandas-10-Tricks-Features-You-May-Not-Know-Watermark.webp" alt="Python-Pandas-10-Tricks-Features-You-May-Not-Know-Watermark" border="0"></a>
+<img src="[https://i.ibb.co/g7bPCMD/Python-Pandas-10-Tricks-Features-You-May-Not-Know-Watermark.webp](https://files.realpython.com/media/k-Nearest-Neighbors-in-Python-Guide_Watermarked.a2475a6087a3.jpg)" alt="Python-Pandas-10-Tricks-Features-You-May-Not-Know-Watermark" border="0"></a>
 
 Welcome to the Numpy-Pandas Beginner to Advance repository! 🎉 This repository contains a comprehensive Jupyter Notebook named `Numpy_Pandas.ipynb`, which will serve as your guide to mastering Numpy and Pandas libraries for data manipulation and analysis. 🚀
 
@@ -8,12 +8,9 @@ Welcome to the Numpy-Pandas Beginner to Advance repository! 🎉 This repository
 
 In this notebook, you will find:
 
-- A detailed introduction to NumPy and Pandas, explaining their significance in data science and numerical computing. 🧮🐼
+- A detailed introduction to Machine Learning algorithms, exploring both supervised and unsupervised algorithms. 🧮🐼
 - Step-by-step tutorials on how to install and set up the required environment to run the notebook effectively. ⚙️🛠️
-- In-depth explanations of various Numpy and Pandas functions, including hands-on examples and use cases. 📚💻
-- Insights into efficient data handling, slicing, reshaping, and statistical analysis using these powerful libraries. 📈📊
-- Over 70+ functions and methods covered, offering a thorough understanding of their applications. 🔢🔬
-- Additional resources and references for further exploration. 🔗🔍
+- In-depth explanations of various scikit-learn and pytorch functions, including hands-on examples and use cases. 📚
 
 ## Setup and Requirements 🛠️
 
@@ -21,17 +18,19 @@ To use this notebook, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 ```bash
-https://github.com/I-AdityaGoyal/Numpy-Pandas_Repository.git
+https://github.com/cemeiq/Machine-learning_Repository.git
 ```
 
 2. **Environment Setup**: Ensure you have Python (version 3.6 or higher) installed on your system. You will need the following libraries:
 - NumPy 🧮
 - Pandas 🐼
+- Scikit-learn
+- -Pytorch
 - Jupyter Notebook 📓
   
 You can install these dependencies using the following command:
 ```bash
-pip install numpy pandas jupyter
+pip install numpy pandas jupyter scikit-learn
 ```
 
 3. **Launch Jupyter Notebook**: Open a terminal (or command prompt) and navigate to the cloned repository's directory. Then run the following command to launch the Jupyter Notebook:
